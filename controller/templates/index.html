@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>AI-MasKeeper</title>
+    <link href="../static/css/style1.css" rel='stylesheet' type='text/css'/>
+</head>
+<body>
+<div class="table_align">
+<table border="0">
+<tr>
+<td colspan="2" style="background-color:#27CCCC;">
+    <h1>AI-MasKeeper——家用智能口罩佩戴检测提醒系统</h1>
+</td>
+</tr>
+<tr>
+    <th rowspan="2" style="background-color:#5AE5E5	;height:500px;width:645px;">
+<!-- 显示视频流 -->
+<div>
+    <img id="video" src="{{ url_for('home.video_viewer') }}">
+<!--        <img id="video" src="{{ url_for('home.video_viewer',url='10.106.54.126:8081') }}">-->
+
+    </div>
+    </th>
+
+</tr>
+
+
+<tr>
+<td colspan="2" style="background-color:#7ac3c9;">
+        <input type="button" class="btn" value="退出系统"
+               onclick="javascrtpt:window.location.href='{{ url_for('user.logout') }}'">
+</td>
+</tr>
+</table>
+    </div>
+ <div class="div-parent">
+<style>
+.div-parent {
+width: 100%;
+background-color: rgba(170, 170, 170, 0);
+}
+.copy-rights {
+    width: fit-content;
+    height: 50px;
+    background-color: rgba(0, 127, 255, 0);
+    margin: 0 auto;  }
+</style>
+<div class="copy-rights">
+    <p> Copyright@2020 AI-Maskers of  <a href="http://www.usst.edu.cn/" target="_blank" title="USST">USST</a>
+        </p>
+</div>
+ </div>
+</body>
+</html>
