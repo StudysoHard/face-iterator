@@ -1,8 +1,6 @@
 from flask import session, render_template, redirect, url_for, Response, make_response,request
 from controller.modules.home import home_blu
 from controller.utils.camera import VideoCamera
-#from smbus2 import SMBus
-from mlx90614 import MLX90614
 
 video_camera = None
 global_frame = None
