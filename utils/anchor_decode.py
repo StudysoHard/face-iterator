@@ -24,4 +24,5 @@ def decode_bbox(anchors, raw_outputs, variances=[0.1, 0.1, 0.2, 0.2]):
     predict_xmax = predict_center_x + predict_w / 2
     predict_ymax = predict_center_y + predict_h / 2
     predict_bbox = np.concatenate([predict_xmin, predict_ymin, predict_xmax, predict_ymax], axis=-1)
+
     return predict_bbox

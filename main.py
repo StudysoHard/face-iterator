@@ -9,6 +9,6 @@ app = create_app('dev')
 
 if __name__ == '__main__':
     # mgr.run()
-    app.run(threaded=True, host="localhost")
+    app.run(threaded=True, host="localhost",port=5005)
 
 

@@ -3913,3 +3913,235 @@ INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_intern
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 08:56:56] "GET / HTTP/1.1" 200 -
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 08:57:02] "GET /video_viewer HTTP/1.1" 200 -
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 08:57:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:18:32] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:18:42] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:18:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:19:26] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:20:35] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:20:52] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:20:52] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:20:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 17:22:21] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 21:55:26] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:11:51] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:21:19] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:21:37] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:21:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:22:44] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:23:08] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:23:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:24:01] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:24:46] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:26:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:29:28] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:29:40] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:29:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:30:16] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 22:55:01] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\utils\\anchor_decode.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:31:33] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:35:55] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:36:12] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:36:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:36:44] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:36:50] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:36:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\utils\\camera.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:44:16] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:44:25] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:44:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:45:25] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:54:36] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:54:45] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:55:48] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:55:57] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:56:52] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:57:02] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:57:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:58:15] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:59:03] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:59:12] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [10/Jun/2022 23:59:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 00:04:28] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 00:04:33] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 00:04:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5000 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:18:33] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:18:39] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:18:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:19:36] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:19:42] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:19:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:20:19] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:20:25] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:21:20] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:21:37] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:22:09] "GET / HTTP/1.1" 200 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:22:32] "GET /video_viewer HTTP/1.1" 200 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5000 "POST /verify HTTP/1.1" 200 152
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:23:19] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:23:24] "GET /video_viewer HTTP/1.1" 200 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5000 "POST /verify HTTP/1.1" 200 152
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:33:16] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:33:22] "GET /video_viewer HTTP/1.1" 200 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:33:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:33:59] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [11/Jun/2022 10:34:05] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 19:48:47] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 19:48:54] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 19:48:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 19:56:46] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 19:56:51] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:02:02] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:02:10] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:53:57] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:54:05] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:54:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
