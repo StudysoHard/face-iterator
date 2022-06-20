@@ -70,7 +70,7 @@ def cutImg(img,xmin,xmax,ymin,ymax):
     cutImg = img[xmin:xmax,ymin:ymax]
     cv2.imwrite('./imgPath' + '/' + 'test.jpg', cutImg)
 
-def inference(image, conf_thresh=0.5, iou_thresh=0.4, target_shape=(160, 160), draw_result=True, chinese=True):
+def inference(image, conf_thresh=0.5, iou_thresh=0.4, target_shape=(160, 160), draw_result=True, chinese=True, asyn = False):
     global all_mask
     global all_nomask
     global pre_mask
@@ -201,7 +201,9 @@ def inference(image, conf_thresh=0.5, iou_thresh=0.4, target_shape=(160, 160), d
     if(all_nomask != 0 or all_mask != 0):
         # 统计到有佩戴口罩的情况
         print("佩戴口罩率: " + str(all_mask/(all_nomask+all_mask)))
-    return image
+
+    if(asyn == False):
+        return image
 
 
     def run(self):
@@ -280,7 +282,7 @@ class VideoCamera(object):
         # 转化图片为 rgb格式
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         # 加载模型
-        frame = inference(frame, target_shape=(260, 260), conf_thresh=0.5)
+        frame = inference(frame, target_shape=(260, 260), conf_thresh=0.5,asyn = False)
         # 转化图片为bgr格式
         frame = cv2.cvtColor(frame, cv2.COLOR_RGB2BGR)
         if ret:
@@ -293,3 +295,15 @@ class VideoCamera(object):
 
         else:
             return None
+
+
+    # 对于视频流进行判断的
+    def get_asyn_stream(self,url):
+        if(url == '0'):
+            ret, frame = cv2.VideoCapture(int(url)).read()
+        else:
+            ret, frame = cv2.VideoCapture(url).read()
+        # 转化图片为 rgb格式
+        frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        # 加载模型
+        frame = inference(frame, target_shape=(260, 260), conf_thresh=0.5,asyn = True)

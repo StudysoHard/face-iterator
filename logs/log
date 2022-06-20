@@ -4145,3 +4145,379 @@ INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_intern
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:53:57] "GET / HTTP/1.1" 200 -
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:54:05] "GET /video_viewer HTTP/1.1" 200 -
 INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 20:54:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 23:30:39] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 23:30:46] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [12/Jun/2022 23:30:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5005
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:08:45] "[31m[1mPOST /read_camera HTTP/1.1[0m" 405 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5005 "POST /read_camera HTTP/1.1" 405 153
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5005
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:09:22] "[31m[1mPOST /read_camera HTTP/1.1[0m" 405 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5005 "POST /read_camera HTTP/1.1" 405 153
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5005
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:10:11] "[31m[1mPOST /read_camera HTTP/1.1[0m" 405 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5005 "POST /read_camera HTTP/1.1" 405 153
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:10:29] "GET /read_camera HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:10:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:228 Starting new HTTP connection (1): localhost:5005
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 00:11:02] "[31m[1mPOST /read_camera HTTP/1.1[0m" 405 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 http://localhost:5005 "POST /read_camera HTTP/1.1" 405 153
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\charset_normalizer\api.py:451 Encoding detection: ascii is most likely the one.
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:51:22] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:51:27] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:51:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:54:11] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:54:16] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:54:30] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:54:36] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:55:25] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:55:29] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:55:54] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 08:55:59] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 09:06:27] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 09:06:33] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 09:06:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:05:39] "[31m[1mPOST /black_image HTTP/1.1[0m" 405 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\modules\\home\\views.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:07:42] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:08:59] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\utils\\deepface\\changeImgToMilvus.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:10:47] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\utils\\deepface\\changeImgToMilvus.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:11:53] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:21:14] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:22:40] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:31:28] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:33:21] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:36:02] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:39:02] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:39:59] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:41:35] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:43:44] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:45:07] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:48:08] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 16:57:11] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): github.com:443
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 https://github.com:443 "GET /opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt HTTP/1.1" 302 0
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:01:21] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): github.com:443
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 https://github.com:443 "GET /opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt HTTP/1.1" 302 0
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:02:13] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): github.com:443
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:456 https://github.com:443 "GET /opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt HTTP/1.1" 302 0
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): raw.githubusercontent.com:443
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\urllib3\connectionpool.py:1001 Starting new HTTPS connection (1): github.com:443
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:03:50] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\utils\\deepface\\changeImgToMilvus.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:04:23] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:04:42] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:06:29] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:08:19] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:10:51] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Detected change in 'C:\\Users\\86138\\Desktop\\daywork\\python\\AI-MasKeeper-master\\AI-MasKeeper-master\\controller\\utils\\deepface\\changeImgToMilvus.py', reloading
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:19:39] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:23:17] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+DEBUG C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\h5py\_hl\attrs.py:77 Creating converter from 3 to 5
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [13/Jun/2022 17:25:16] "[35m[1mPOST /black_image HTTP/1.1[0m" 500 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [16/Jun/2022 10:20:44] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Running on http://localhost:5005 (Press CTRL+C to quit)
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Restarting with stat
+WARNING C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger is active!
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224  * Debugger PIN: 130-982-084
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [16/Jun/2022 10:21:33] "GET / HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [16/Jun/2022 10:21:38] "GET /video_viewer HTTP/1.1" 200 -
+INFO C:\Users\86138\anaconda3\envs\tensorflow\lib\site-packages\werkzeug\_internal.py:224 127.0.0.1 - - [16/Jun/2022 10:21:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
